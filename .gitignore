@@ -1,0 +1,10 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+data/
+*.log
+.pytest_cache/
+.workbuddy/
+.zcode/
+logs/
